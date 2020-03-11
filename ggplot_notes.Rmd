@@ -1,0 +1,11 @@
+---
+title: "Creating graphs in R with `ggplot2`"
+author: "Min-Ting"
+date: "3/9/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
